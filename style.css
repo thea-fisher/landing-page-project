@@ -82,7 +82,10 @@ a {
 
 .header .container {
     display: flex;
-    align-items:center;
+}
 
+.header img {
+    display: flex;
+    justify-content: center;
 }
 
