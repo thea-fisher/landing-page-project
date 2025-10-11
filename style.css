@@ -16,28 +16,54 @@ body {
 }
 }
 
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
 .navbar {
     background-color: #1f2937;
-    align-items: center;
-    justify-content: space-between;
+    color: #f9faf8;
+    max-height: 70px;
+    
 }
 
-.logo {
-    display: flex;
-    align-self: flex-start;
+.navbar .logo {
     color: #f9faf8;
+    font-size: x-large;
+    font-weight: bold;
 }
+
+.navbar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.navbar ul {
+    display: flex; /*Targeting this specifically makes the list items each one item, rather than one item together as it is under navbar container. Now these can be targeted individually.*/
+}
+
+.navbar ul li {
+ margin-left: 20px;
+}
+
 
 ul {
-    list-style-type: none;
-    display: flex;
-    padding: 0;
-    margin: 0;
-    gap: 8%;
+    list-style: none;
 }
+    
 
 a {
     color: #f9faf8;
     text-decoration: none;
-    
+    font-weight: bold; 
 }
+
+.navbar .a:hover {
+ color: aqua;
+}
+
+
