@@ -16,6 +16,10 @@ body {
 }
 }
 
+h1, h2 {
+    margin-bottom: 12px;
+}
+
 .container {
     max-width: 1000px;
     margin: 0 auto;
@@ -50,20 +54,35 @@ body {
  margin-left: 20px;
 }
 
-
 ul {
     list-style: none;
 }
     
-
 a {
     color: #f9faf8;
     text-decoration: none;
     font-weight: bold; 
 }
 
-.navbar .a:hover {
- color: aqua;
+.header {
+    background-color: #1f2937;
+    color: #f9faf8;
+    min-height: 300px;
 }
 
+.header .h1 {
+ font-weight: 900;
+ line-height: 1.2;
+}
+
+.header img {
+    max-width: 450px;
+    height: auto;
+}
+
+.header .container {
+    display: flex;
+    align-items:center;
+
+}
 
