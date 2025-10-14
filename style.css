@@ -143,12 +143,45 @@ a {
 }
 
 .banner {
+    display: flex;
     background-color: #f9faf8;
     height: 400px;
+    align-items: center;
 }
 
 .banner .container {
     display: flex;
+    align-items: center;
+    justify-content: space-evenly;
     background-color: #3882f6;
     color: #f9faf8;
+    width: 1000px;
+    height: 150px;
+    border-radius: 10px;
+    font-size: 20px;
 }
+
+.banner button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-weight: bold;
+    padding: 8px;
+    margin-top: 10px;
+    border-radius: 8px;
+    width: 100px;
+    border-color: #f9faf8;
+}
+
+.footer {
+    background-color: #1f2937;
+}
+
+.footer .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    color:#f9faf8;
+    font-size: 18px;
+}
+
