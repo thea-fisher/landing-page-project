@@ -67,7 +67,7 @@ a {
 .header {
     background-color: #1f2937;
     color: #f9faf8;
-    min-height: 300px;
+    min-height: 400px;
 }
 
 .header .h1 {
@@ -81,11 +81,74 @@ a {
 }
 
 .header .container {
-    display: flex;
+    display: flex; 
+    align-items: center;
+    min-height: 400px;
 }
 
-.header img {
+.header button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-weight: bold;
+    padding: 8px;
+    margin-top: 10px;
+    border-radius: 8px;
+    width: 100px;
+}
+
+.title {
+    background-color: #f9faf8;
+    height: 60px;
+}
+
+.title .container {
     display: flex;
     justify-content: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: #1f2937;
 }
 
+.boxes {
+    background-color: #f9faf8;
+    height: 400px;
+}
+
+.boxes .container {
+    display: flex;
+    height: 400px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.box {
+    flex: 1;
+    color: #1f2937;
+    font-size: large;
+}
+
+.content {
+    background-color: #e5e7eb;
+    height: 400px;
+}
+
+.content .container {
+    display: flex;
+    height: 400px;
+    align-items: center;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.banner {
+    background-color: #f9faf8;
+    height: 400px;
+}
+
+.banner .container {
+    display: flex;
+    background-color: #3882f6;
+    color: #f9faf8;
+}
