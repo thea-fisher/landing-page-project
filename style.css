@@ -24,7 +24,7 @@ h1, h2 {
 }
 
 .navbar {
-    background-color: #1f2937;
+    background-color: #042a17;
     color: #f9faf8;
     max-height: 70px;
     
@@ -62,7 +62,7 @@ a {
 }
 
 .header {
-    background-color: #1f2937;
+    background-color: #0c3822;
     color: #f9faf8;
     min-height: 400px;
 }
@@ -73,8 +73,9 @@ a {
 }
 
 .header img {
-    max-width: 450px;
+    max-width: 500px;
     height: auto;
+    border-radius: 50px;
 }
 
 .header .container {
@@ -82,9 +83,7 @@ a {
     align-items: center;
     justify-content: center;
     height: 400px;
-    gap: 145px;
-    text-wrap: wrap;
-
+    gap: 100px;
 }
 
 .header p {
@@ -188,7 +187,7 @@ button {
 }
 
 .footer {
-    background-color: #1f2937;
+    background-color: #042a17;
 }
 
 .footer .container {
