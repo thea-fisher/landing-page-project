@@ -6,14 +6,11 @@
 
 body {
 
-.roboto-<uniquifier> {
-  font-family: "Roboto", sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-}
+  font-variation-settings;
 }
 
 h1, h2 {
@@ -83,7 +80,14 @@ a {
 .header .container {
     display: flex; 
     align-items: center;
-    min-height: 400px;
+    justify-content: center;
+    height: 400px;
+    gap: 145px;
+}
+
+.header p {
+    text-align: start;
+    width: 370px;
 }
 
 .header button {
@@ -103,6 +107,7 @@ a {
 
 .title .container {
     display: flex;
+    padding: 30px;
     justify-content: center;
     font-size: xx-large;
     font-weight: bolder;
@@ -117,8 +122,10 @@ a {
 .boxes .container {
     display: flex;
     height: 400px;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
+    gap: 40px;
+    text-align: center;
 }
 
 .box {
@@ -127,6 +134,13 @@ a {
     font-size: large;
 }
 
+.box img {
+    max-width: 350px;
+    max-height: auto;
+    border-radius: 100px;
+}
+
+
 .content {
     background-color: #e5e7eb;
     height: 400px;
@@ -134,7 +148,11 @@ a {
 
 .content .container {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
     height: 400px;
+    gap: 12px;
+    text-align: justify;
     align-items: center;
     font-size: xx-large;
     font-style: italic;
