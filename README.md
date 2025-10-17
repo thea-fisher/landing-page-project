@@ -12,3 +12,7 @@ Credit to photo Photo by Element5 Digital: https://www.pexels.com/photo/mason-ja
 Credit to photo Photo by Valeria Boltneva: https://www.pexels.com/photo/selective-focus-photography-of-two-orange-drinks-1251210/
 
 Credit to photo Photo by Polina Tankilevitch: https://www.pexels.com/photo/person-holding-bottle-with-smoothie-4443489/
+
+Credit to Photo by Jovie Pujadas Ladura: https://www.pexels.com/photo/clear-drinking-glasses-with-fruit-shakes-8394976/
+
+Credit to Photo by Chu Chup Hinh: https://www.pexels.com/photo/two-plastic-cup-on-brown-wooden-table-1148215/
