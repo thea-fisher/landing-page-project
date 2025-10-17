@@ -83,6 +83,8 @@ a {
     justify-content: center;
     height: 400px;
     gap: 145px;
+    text-wrap: wrap;
+
 }
 
 .header p {
@@ -90,13 +92,15 @@ a {
     width: 370px;
 }
 
-.header button {
+button {
     background-color: #3882f6;
     color: #f9faf8;
     font-weight: bold;
     padding: 8px;
     margin-top: 10px;
     border-radius: 8px;
+    border-style: solid;
+    border-color: #3882f6;
     width: 100px;
 }
 
@@ -180,13 +184,6 @@ a {
 }
 
 .banner button {
-    background-color: #3882f6;
-    color: #f9faf8;
-    font-weight: bold;
-    padding: 8px;
-    margin-top: 10px;
-    border-radius: 8px;
-    width: 100px;
     border-color: #f9faf8;
 }
 
