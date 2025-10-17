@@ -9,10 +9,8 @@ Credit to photo Photo by Toni Cuenca: https://www.pexels.com/photo/green-apple-b
 
 Credit to photo Photo by Element5 Digital: https://www.pexels.com/photo/mason-jar-with-shake-and-straw-775030/
 
-Credit to photo Photo by Valeria Boltneva: https://www.pexels.com/photo/selective-focus-photography-of-two-orange-drinks-1251210/
-
-Credit to photo Photo by Polina Tankilevitch: https://www.pexels.com/photo/person-holding-bottle-with-smoothie-4443489/
-
 Credit to Photo by Jovie Pujadas Ladura: https://www.pexels.com/photo/clear-drinking-glasses-with-fruit-shakes-8394976/
 
 Credit to Photo by Chu Chup Hinh: https://www.pexels.com/photo/two-plastic-cup-on-brown-wooden-table-1148215/
+
+Credit to Photo by ROMAN ODINTSOV: https://www.pexels.com/photo/apple-and-beetroot-smoothie-4551975/
